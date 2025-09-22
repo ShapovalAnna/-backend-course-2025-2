@@ -1,0 +1,185 @@
+[
+{ 
+"exchangedate":"01.10.2023","r030":36,"cc":"AUD","txt":"Австралійський долар","enname":"Australian Dollar","rate":23.3728,"units":1,"rate_per_unit":23.3728,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":124,"cc":"CAD","txt":"Канадський долар","enname":"Canadian Dollar","rate":27.122,"units":1,"rate_per_unit":27.122,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":156,"cc":"CNY","txt":"Юань Женьміньбі","enname":"Yuan Renminbi ","rate":5.0069,"units":1,"rate_per_unit":5.0069,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":203,"cc":"CZK","txt":"Чеська крона","enname":"Czech Koruna","rate":1.5814,"units":1,"rate_per_unit":1.5814,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":208,"cc":"DKK","txt":"Данська крона","enname":"Danish Krone","rate":5.1709,"units":1,"rate_per_unit":5.1709,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":344,"cc":"HKD","txt":"Гонконгівський долар","enname":"Hong Kong Dollar","rate":4.672,"units":1,"rate_per_unit":4.672,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":348,"cc":"HUF","txt":"Форинт","enname":"Forint","rate":9.8105,"units":100,"rate_per_unit":0.098105,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":356,"cc":"INR","txt":"Індійська рупія","enname":"Indian Rupee","rate":4.3955,"units":10,"rate_per_unit":0.43955,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":360,"cc":"IDR","txt":"Рупія","enname":"Rupiah","rate":2.3556,"units":1000,"rate_per_unit":0.0023556,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":376,"cc":"ILS","txt":"Новий ізраїльський шекель","enname":"New Israeli Sheqel","rate":9.5025,"units":1,"rate_per_unit":9.5025,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":392,"cc":"JPY","txt":"Єна","enname":"Yen","rate":2.449,"units":10,"rate_per_unit":0.2449,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":398,"cc":"KZT","txt":"Теньге","enname":"Tenge","rate":7.7134,"units":100,"rate_per_unit":0.077134,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":410,"cc":"KRW","txt":"Вона","enname":"Won","rate":2.6955,"units":100,"rate_per_unit":0.026955,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":484,"cc":"MXN","txt":"Мексиканське песо","enname":"Mexican Peso","rate":2.0734,"units":1,"rate_per_unit":2.0734,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":498,"cc":"MDL","txt":"Молдовський лей","enname":"Moldovan Leu","rate":2.0185,"units":1,"rate_per_unit":2.0185,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":554,"cc":"NZD","txt":"Новозеландський долар","enname":"New Zealand Dollar","rate":21.7693,"units":1,"rate_per_unit":21.7693,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":578,"cc":"NOK","txt":"Норвезька крона","enname":"Norwegian Krone","rate":3.4029,"units":1,"rate_per_unit":3.4029,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":643,"cc":"RUB","txt":"Російський рубль","enname":"Russian Ruble","rate":3.7693,"units":10,"rate_per_unit":0.37693,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":702,"cc":"SGD","txt":"Сінгапурський долар","enname":"Singapore Dollar","rate":26.708,"units":1,"rate_per_unit":26.708,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":710,"cc":"ZAR","txt":"Ренд","enname":"Rand","rate":1.9107,"units":1,"rate_per_unit":1.9107,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":752,"cc":"SEK","txt":"Шведська крона","enname":"Swedish Krona","rate":3.3174,"units":1,"rate_per_unit":3.3174,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":756,"cc":"CHF","txt":"Швейцарський франк","enname":"Swiss Franc","rate":39.8221,"units":1,"rate_per_unit":39.8221,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":818,"cc":"EGP","txt":"Єгипетський фунт","enname":"Egyptian Pound","rate":1.1841,"units":1,"rate_per_unit":1.1841,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":826,"cc":"GBP","txt":"Фунт стерлінгів","enname":"Pound Sterling","rate":44.6503,"units":1,"rate_per_unit":44.6503,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":36.5686,"units":1,"rate_per_unit":36.5686,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":933,"cc":"BYN","txt":"Білоруський рубль","enname":"Belarusian Ruble","rate":13.2919,"units":1,"rate_per_unit":13.2919,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":944,"cc":"AZN","txt":"Азербайджанський манат","enname":"Azerbaijan Manat","rate":21.5375,"units":1,"rate_per_unit":21.5375,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":946,"cc":"RON","txt":"Румунський лей","enname":"Romanian Leu","rate":7.7484,"units":1,"rate_per_unit":7.7484,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":949,"cc":"TRY","txt":"Турецька ліра","enname":"Turkish Lira","rate":1.3339,"units":1,"rate_per_unit":1.3339,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":960,"cc":"XDR","txt":"СПЗ (спеціальні права запозичення)","enname":"SDR (Special Drawing Right)","rate":47.9619,"units":1,"rate_per_unit":47.9619,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":975,"cc":"BGN","txt":"Болгарський лев","enname":"Bulgarian Lev","rate":19.7114,"units":1,"rate_per_unit":19.7114,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":978,"cc":"EUR","txt":"Євро","enname":"Euro","rate":38.5543,"units":1,"rate_per_unit":38.5543,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":985,"cc":"PLN","txt":"Злотий","enname":"Zloty","rate":8.3165,"units":1,"rate_per_unit":8.3165,"group":"1","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":12,"cc":"DZD","txt":"Алжирський динар","enname":"Algerian Dinar","rate":2.665,"units":10,"rate_per_unit":0.2665,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":50,"cc":"BDT","txt":"Така","enname":"Taka","rate":3.3244,"units":10,"rate_per_unit":0.33244,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":51,"cc":"AMD","txt":"Вірменський драм","enname":"Armenian Dram","rate":9.2955,"units":100,"rate_per_unit":0.092955,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":214,"cc":"DOP","txt":"Домініканське песо","enname":"Dominican Peso","rate":6.4554,"units":10,"rate_per_unit":0.64554,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":364,"cc":"IRR","txt":"Іранський ріал","enname":"Iranian Rial","rate":8.7068,"units":10000,"rate_per_unit":0.00087068,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":368,"cc":"IQD","txt":"Іракський динар","enname":"Iraqi Dinar","rate":2.7915,"units":100,"rate_per_unit":0.027915,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":417,"cc":"KGS","txt":"Сом","enname":"Som","rate":4.1223,"units":10,"rate_per_unit":0.41223,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":422,"cc":"LBP","txt":"Ліванський фунт","enname":"Lebanese Pound","rate":0.2438,"units":100,"rate_per_unit":0.002438,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":434,"cc":"LYD","txt":"Лівійський динар","enname":"Libyan Dinar","rate":7.4796,"units":1,"rate_per_unit":7.4796,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":458,"cc":"MYR","txt":"Малайзійський ринггіт","enname":"Malaysian Ringgit","rate":7.7882,"units":1,"rate_per_unit":7.7882,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":504,"cc":"MAD","txt":"Марокканський дирхам","enname":"Moroccan Dirham","rate":3.5441,"units":1,"rate_per_unit":3.5441,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":586,"cc":"PKR","txt":"Пакистанська рупія","enname":"Pakistan Rupee","rate":1.2699,"units":10,"rate_per_unit":0.12699,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":682,"cc":"SAR","txt":"Саудівський ріял","enname":"Saudi Riyal","rate":9.7503,"units":1,"rate_per_unit":9.7503,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":704,"cc":"VND","txt":"Донг","enname":"Dong","rate":1.5045,"units":1000,"rate_per_unit":0.0015045,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":764,"cc":"THB","txt":"Бат","enname":"Baht","rate":10.015,"units":10,"rate_per_unit":1.0015,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":784,"cc":"AED","txt":"Дирхам ОАЕ","enname":"UAE Dirham","rate":9.9558,"units":1,"rate_per_unit":9.9558,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":788,"cc":"TND","txt":"Туніський динар","enname":"Tunisian Dinar","rate":11.546,"units":1,"rate_per_unit":11.546,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":860,"cc":"UZS","txt":"Узбецький сум","enname":"Uzbekistan Sum","rate":3.0036,"units":1000,"rate_per_unit":0.0030036,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":901,"cc":"TWD","txt":"Новий тайванський долар","enname":"New Taiwan Dollar","rate":11.3409,"units":10,"rate_per_unit":1.13409,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":934,"cc":"TMT","txt":"Туркменський новий манат","enname":"Turkmenistan New Manat","rate":10.4482,"units":1,"rate_per_unit":10.4482,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":941,"cc":"RSD","txt":"Сербський динар","enname":"Serbian Dinar","rate":3.3069,"units":10,"rate_per_unit":0.33069,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":972,"cc":"TJS","txt":"Сомоні","enname":"Somoni","rate":3.3375,"units":1,"rate_per_unit":3.3375,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":981,"cc":"GEL","txt":"Ларі","enname":"Lari","rate":13.6705,"units":1,"rate_per_unit":13.6705,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":986,"cc":"BRL","txt":"Бразильський реал","enname":"Brazilian Real","rate":7.265,"units":1,"rate_per_unit":7.265,"group":"2","calcdate":"29.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":959,"cc":"XAU","txt":"Золото","enname":"Gold","rate":68610.37,"units":1,"rate_per_unit":68610.37,"group":"3","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":961,"cc":"XAG","txt":"Срібло","enname":"Silver","rate":826.1,"units":1,"rate_per_unit":826.1,"group":"3","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":962,"cc":"XPT","txt":"Платина","enname":"Platinum","rate":32799.84,"units":1,"rate_per_unit":32799.84,"group":"3","calcdate":"28.09.2023"
+ }
+,{ 
+"exchangedate":"01.10.2023","r030":964,"cc":"XPD","txt":"Паладій","enname":"Palladium","rate":45081.77,"units":1,"rate_per_unit":45081.77,"group":"3","calcdate":"28.09.2023"
+ }
+]
